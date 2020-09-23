@@ -1,0 +1,94 @@
+#heading{
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .8cm;
+    color: rgb(247, 235, 235);
+    margin-left: 15em;
+}
+.wallpaper{
+    background: url(IMAGE.jpg);
+    background-size: contain;
+    opacity: .750;
+    color:lemonchiffon;
+    margin:auto;
+
+}
+#Role{
+    display: inline;
+    width: 100%;
+    font-size: .5cm;
+}
+.form{
+    margin-top: 10;
+    margin-left: 15em;
+    padding : 50px;
+    width:50%; 
+    background: rgb(0, 1, 39);
+    font-size: .5cm;
+    font-family: Helvetica;
+}
+.subtitle{
+    
+font-style: oblique;
+margin-left: 28em;
+color:seashell;
+}
+#submit{
+    background-color: seagreen;
+}
+textarea
+{
+padding:10px;
+line-height: 1.5;
+font-size: .5cm;
+}
+input{
+  
+   box-sizing: border-box;
+    font-size: .5cm;
+   
+    width: 100%;
+
+}
+#front{
+    display: inline;
+    text-align:right;
+    width: 10%;
+    padding-left: 1cm;
+    
+}
+#back{
+    display: inline;
+    text-align: right;
+    width: 10%;
+}
+#challenges{
+    display: inline;
+    text-align: right;
+    width: 10%;
+}
+#visualisation{
+    width: 10%;
+}
+#Open{
+    width: 10%;  
+}
+#gitter{
+    width: 10%;
+}
+#videos{
+    width: 10%;
+}
+#forum{
+    width: 10%;
+}
+#wiki{
+    width: 10%;
+}
+#city{
+    width: 10%;
+}
+#courses{
+    width: 10%;
+}
+  
